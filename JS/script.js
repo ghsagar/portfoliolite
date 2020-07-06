@@ -18,7 +18,7 @@ $(document).ready(function(){
     });
 
     var typed = new Typed(".typed",{
-        strings:["Software Developer..","Data Scientist..","Machine Learning Engineer.."],
+        strings:["Software Developer..","Thinker..","Data Scientist..","Machine Learning Engineer.."],
         typeSpeed: 70,
         loop: true,
         startDelay: 1000,
