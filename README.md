@@ -1,2 +1,1 @@
-# portfoliolite
-Personal Website-lite version
+This is my personal portfolio website project. 
