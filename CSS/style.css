@@ -172,6 +172,14 @@ body{
     background-color: #fff;
 }
 
+.mediaicons li{
+    list-style: none;
+    display: inline-block;
+}
+.mediaicons li a{
+    height: 40px;
+}
+
 .filter a{
     color:#bdc3c7 ;
     border: 1px solid #bdc3c7;
