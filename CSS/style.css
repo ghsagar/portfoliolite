@@ -172,14 +172,21 @@ body{
     background-color: #fff;
 }
 
-.mediaicons li{
+.mediaicons{
     list-style: none;
     display: inline-block;
+    font-size: xx-large;
+     
+ 
 }
-.mediaicons li a{
-    height: 40px;
+.mediaicons a{
+    background-color: dodgerblue;
+    border: 3px solid;
 }
-
+.mediaicons a .icon{
+    font-size: 50px;
+    color: white;
+}
 .filter a{
     color:#bdc3c7 ;
     border: 1px solid #bdc3c7;
