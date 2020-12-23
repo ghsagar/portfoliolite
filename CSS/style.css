@@ -66,7 +66,7 @@ body{
     max-width: 100%;
 }
 .skillsSection,.contactSection{
-    background-color: #e74c3c;
+    background-color: #1fb3cb;
     color: #fff;
 }
 .skill{
@@ -318,12 +318,12 @@ body{
 
 
 .copyrightSection{
-    background-color: #e74c3c;
+    background-color: #1fb3cb;
     padding: 30px;
     color: #fff;
 }
 #navigation{
-    background-color: #e74c3c;
+    background-color: #1fb3cb;
     padding: 20px 10px;
     z-index: 100;
     width: 100%;
